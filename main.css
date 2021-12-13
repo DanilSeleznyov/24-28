@@ -1,0 +1,294 @@
+header{
+    position: absolute;
+    width: 1440px;
+    height: 100px;
+    left: 0px;
+    top: 0px;
+    background: #FFFFFF;
+}
+
+.rectangle59{
+position: absolute;
+width: 1px;
+height: 40px;
+left: 258px;
+top: 31px;
+background: #E2E2E2;
+}
+
+.UA{
+position: absolute;
+width: 22px;
+height: 21px;
+left: 285px;
+top: 32px;
+font-family: Suisse Int'l Trial';
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 21px;
+text-align: center;
+color: #0c0b0b;
+
+}
+
+.rectangle60{
+    position: absolute;
+width: 35px;
+height: 20px;
+left: 279px;
+top: 51px;
+
+background: #4AD295;
+border-radius: 2px;
+}
+
+.RU{
+position: absolute;
+width: 24px;
+height: 21px;
+left: 284px;
+top: 51px;
+
+font-family: Suisse Int;
+font-style: normal;
+font-weight: bold;
+font-size: 16px;
+line-height: 21px;
+text-align: center;
+color: #FFFFFF;
+
+}
+.rectangle57{
+    position: absolute;
+    width: 1px;
+    height: 40px;
+    left: 339px;
+    top: 31px;
+    
+    background: #E2E2E2;
+}
+.price1{
+    position: absolute;
+width: 75px;
+height: 19px;
+left: 365px;
+top: 31px;
+
+font-family: Suisse Int'l Trial';
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 19px;
+
+color: #393939;
+
+}
+.price2{
+position: absolute;
+width: 74px;
+height: 19px;
+left: 365px;
+top: 54px;
+
+font-family: Suisse Int'l Trial';
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 19px;
+color: #393939;
+
+}
+
+.rectangle56{
+position: absolute;
+width: 1px;
+height: 40px;
+left: 465px;
+top: 31px;
+background: #E2E2E2;
+}
+
+img{
+position: absolute;
+width: 131px;
+height: 72px;
+left: 100px;
+top: 17px;
+
+}
+img:nth-child(2){
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    left: 491px;
+    top: 42px;
+    
+    opacity: 0.5;
+}
+img:nth-child(3){
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    left: 521px;
+    top: 42px;
+    
+    opacity: 0.5;
+}
+
+img:nth-child(4){
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    left: 556px;
+    top: 43px;
+    
+    opacity: 0.5;
+}
+
+.rectangle58{
+position: absolute;
+width: 1px;
+height: 40px;
+left: 601px;
+top: 31px;
+background: #E2E2E2;
+}
+
+.number1{
+    
+position: absolute;
+width: 128px;
+height: 21px;
+left: 627px;
+top: 29px;
+
+font-family: Suisse Int'l Trial';
+font-style: normal;
+font-weight: bold;
+font-size: 16px;
+line-height: 21px;
+/* identical to box height */
+
+text-align: center;
+
+color: #393939;
+
+}
+.number2{
+    position: absolute;
+width: 120px;
+height: 21px;
+left: 627px;
+top: 55px;
+
+font-family: Suisse Int'l Trial';
+font-style: normal;
+font-weight: bold;
+font-size: 16px;
+line-height: 21px;
+/* identical to box height */
+
+text-align: center;
+
+color: #393939;
+
+}
+
+img:nth-child(5){
+    
+position: absolute;
+width: 39px;
+height: 39px;
+left: 762px;
+top: 32px;
+
+}
+.rectangle61{
+    position: absolute;
+    width: 1px;
+    height: 40px;
+    left: 826px;
+    top: 31px;
+    background: #E2E2E2;
+}
+
+.rectangle88{
+    
+position: absolute;
+width: 240px;
+height: 55px;
+left: 862px;
+top: 23px;
+
+background: #EFF3F6;
+border-radius: 2px;
+}
+.rectangle89{
+    
+position: absolute;
+width: 55px;
+height: 55px;
+left: 1047px;
+top: 23px;
+
+background: #DD4053;
+border-radius: 2px;
+}
+.maistraonline{
+position: absolute;
+width: 145px;
+height: 20px;
+left: 882px;
+top: 40px;
+font-family: Montserrat;
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 20px;
+text-align: center;
+text-transform: uppercase;
+color: #373737;
+
+}
+.rectangle40{
+position: absolute;
+width: 205px;
+height: 55px;
+left: 1132px;
+top: 23px;
+background: #EFF3F6;
+border-radius: 2px;
+}
+.rectangle41{
+    
+position: absolute;
+width: 55px;
+height: 55px;
+left: 1282px;
+top: 23px;
+
+background: #4AD295;
+border-radius: 2px;
+}
+
+.turyonline{
+    position: absolute;
+width: 118px;
+height: 20px;
+left: 1147px;
+top: 40px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 20px;
+/* identical to box height */
+
+text-align: center;
+text-transform: uppercase;
+
+color: #373737;
+
+}
